@@ -1,3 +1,6 @@
-Hi, I’m @PegaFox, an aspiring developer who knows HTML, CSS, JS, Python and C++. and learning Java and C.
-I'm also still learning the ropes in github but I'm looking forward to making packages and repositories! :)
+Hi, I’m @PegaFox, an aspiring developer who knows C++, Python, C, HTML, CSS, JS, and Lua.
 
+I don't use github all that often, but I've put a few interesting repos on here, so feel free to check them out! :D
+
+(Also check out my website!)
+pegafox.github.io
